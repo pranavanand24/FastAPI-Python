@@ -1,4 +1,7 @@
+
 # FastAPI
+
+![FastAPI logo](https://user-images.githubusercontent.com/42691222/143052468-42c5664c-a731-4611-9f52-3032a9f32bcb.png)
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3 based on standard Python type hints.
 
